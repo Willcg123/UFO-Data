@@ -1,6 +1,6 @@
 # In this project I will take a look at a UFO Sightings Dataset found on Kaggle.
-## To access the website go to: https://share.streamlit.io/willcg123/ufo-data/main 
-Data Used: UFO Sightings
+## To access the website [click here](https://share.streamlit.io/willcg123/ufo-data/main ) or go to: https://share.streamlit.io/willcg123/ufo-data/main 
+Data Used: [UFO Sightings](https://www.kaggle.com/datasets/NUFORC/ufo-sightings?datasetId=388&sortBy=voteCount)
 
 Purpose: Website that shows and compares UFO sightings around the world.
 
