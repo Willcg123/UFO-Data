@@ -19,6 +19,7 @@ def app():
             - Years with the most UFO Sightings
             - Months and days with most UFO sightings
             - Look at the specific count of each type of shape and sort it by count
+            - Look at most used words in comments about every UFO sighting
             """
         )
 
