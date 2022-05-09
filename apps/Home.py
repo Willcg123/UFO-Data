@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 # ---- HEADER SECTION ----
 def app():
-    st.title("UFO Daya Analysis")
+    st.title("UFO Daya Analysis By Will Gao")
     st.subheader("This website will analyze a UFO Sightings Data set")
     st.write("The dataset can be found [here](https://www.kaggle.com/datasets/NUFORC/ufo-sightings)")
 # ---- WHAT I WILL DO ----
