@@ -18,7 +18,7 @@ def app():
             - Heat map of UFO sigthings in the USA.
             - Years with the most UFO Sightings
             - Months and days with most UFO sightings
-            - Specific shapes of the UFO sightings, sorted by year and country 
+            - Look at the specific count of each type of shape and sort it by count
             """
         )
 
